@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RendezvousEventFeedList</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name2">NavigationDrawer</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="app_name3">Profile UI</string>
+    <string name="twitterUsername">\29</string>
+</resources>

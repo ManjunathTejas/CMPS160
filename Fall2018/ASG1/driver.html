@@ -1,0 +1,45 @@
+<html lang="en">
+  <head>
+      <meta charset="utf-8"/>
+      <title> "Tejas Manjunath"'s Assignment 1 </title>
+      <!-- Include external libraries -->
+      <script src = "lib/webgl-utils.js"></script>
+      <script src = "lib/webgl-debug.js"></script>
+      <script src = "lib/cuon-utils.js"></script>
+      <script src = "lib/load-file.js"></script>
+
+      <!-- Include main program -->
+      <script src = "prog/main.js"></script>
+
+      <!-- Include internal functions -->
+      <script src = "prog/eventFunctions.js"></script>
+      <script src = "prog/glslFunctions.js"></script>
+      <script src = "prog/htmlFunctions.js"></script>
+
+      <!-- Include shaders -->
+      <script src = "prog/shaders.js"></script>
+  </head>
+
+  <body onload = "main()">
+      
+    <p> Assignment 1 </p>
+      <canvas id="example" width="500" height="500"> </canvas>
+      <br>
+      <p id="location">x= ? y= ? </p>
+      <br>
+      <button id=clearCanvas>Clear Canvas</button>
+      
+      <p>Point Color:</p>
+      Red
+      <input type="range" min="0.0" id="redSlider" max="1.0" value="0.0" step="0.1" />
+      
+      Blue
+      <input type="range" min="0.0" id="blueSlider" max="1.0" value="0.0" step="0.1" />
+      
+       Green
+      <input type="range" min="0.0" id="greenSlider" max="1.0" value="0.0" step="0.1" />
+      <br>
+      Point Size
+      <input type="range" min="10.0" id="pointSizeSlider" max="200.0" value="0.0" step="10.0" />
+      </body>
+</html>

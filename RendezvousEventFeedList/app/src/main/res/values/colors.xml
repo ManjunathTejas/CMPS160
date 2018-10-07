@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent_material_light_1">#ff4040</color>
+    <color name="accent_material_light">#ff4040</color>
+
+    <color name="colorPrimary">#d12e31</color>
+    <color name="colorPrimaryDark">#e7494c</color>
+    <color name="colorAccent">#980d0f</color>
+
+    <color name="address">#922f31</color>
+    <color name="followers">#980d0f</color>
+    <color name="headings">#101010</color>
+    <color name="solidCircle">#aaffffff</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#d72b2e</color>
+    <color name="gradStart">#ce4b4d</color>
+    <color name="followersBg">#e56567</color>
+    <color name="followingBg">#ff494c</color>
+    <color name="grey">#e5e5e5</color>
+
+
+    <color name="primary">#101010</color>
+    <color name="primary_dark">#E12929</color>
+    <color name="primary_darker">#CC1D1D</color>
+    <color name="accent">#FFFFFF</color>
+
+    <color name="black">#000000</color>
+    <color name="jet">#222222</color>
+    <color name="oil">#333333</color>
+    <color name="monsoon">#777777</color>
+    <color name="jumbo">#888888</color>
+    <color name="aluminum">#999999</color>
+    <color name="base">#AAAAAA</color>
+    <color name="iron">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>
